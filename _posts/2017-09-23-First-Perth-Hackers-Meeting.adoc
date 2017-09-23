@@ -20,12 +20,12 @@ So far he has managed to write a failing unit test. Yay!
 
 Anyway thankyou for attending:
 
-* Stephen Price
-* Mohammad Zaatar
+* https://github.com/lythix[Stephen Price]
+* https://github.com/mzaatar[Mohammad Zaatar]
 * Toby Potter
 * Kieran Mesquita
-* Nathan Szlichta
-* David Hart (me)
+* https://github.com/sznathan[Nathan Szlichta]
+* https://github.com/clickr[David Hart (me)]
 
 During the meeting we have also managed to create a githubpages 
 front page (https://perthhackers.github.io) and this blog.
