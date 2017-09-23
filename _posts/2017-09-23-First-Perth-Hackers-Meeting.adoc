@@ -10,8 +10,9 @@ We're having our first meeting!
 We all want to learn how to participate in the wider open source
 community as well as possibly starting our own projects.
 
-Thank you to Steve Price for organizing our first meeting at "The Maker
-Movement Cafe"
+Thank you to Steve Price for organizing our first meeting at 
+https://www.themakermovement.com.au[The Maker
+Movement Cafe]
 
 Steve is busy at the moment with our first attempt at an open source
 contribution (https://github.com/up-for-grabs/up-for-grabs.net/issues/250)
