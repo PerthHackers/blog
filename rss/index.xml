@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://perthhackers.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sat, 23 Sep 2017 07:59:30 GMT</lastBuildDate><atom:link href="https://perthhackers.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[First Perth Hackers Meeting]]></title><description><![CDATA[<div class="paragraph">
+<p>We&#8217;re having our first meeting!</p>
+</div>
+<div class="paragraph">
+<p>We all want to learn how to participate in the wider open source
+community as well as possibly starting our own projects.</p>
+</div>
+<div class="paragraph">
+<p>Thank you to Steve Price for organizing our first meeting at "The Maker
+Movement Cafe"</p>
+</div>
+<div class="paragraph">
+<p>Steve is busy at the moment with our first attempt at an open source
+contribution (<a href="https://github.com/up-for-grabs/up-for-grabs.net/issues/250" class="bare">https://github.com/up-for-grabs/up-for-grabs.net/issues/250</a>)
+So far he has managed to write a failing unit test. Yay!</p>
+</div>
+<div class="paragraph">
+<p>Anyway thankyou for attending:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Stephen Price</p>
+</li>
+<li>
+<p>Mohammad Zaatar</p>
+</li>
+<li>
+<p>Toby Potter</p>
+</li>
+<li>
+<p>Kieran Mesquita</p>
+</li>
+<li>
+<p>Nathan Szlichta</p>
+</li>
+<li>
+<p>David Hart (me)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>During the meeting we have also managed to create a githubpages
+front page (<a href="https://perthhackers.github.io" class="bare">https://perthhackers.github.io</a>) and this blog.</p>
+</div>
+<div class="paragraph">
+<p>Looking forward to the next time.</p>
+</div>]]></description><link>https://perthhackers.github.io/blog/2017/09/23/First-Perth-Hackers-Meeting.html</link><guid isPermaLink="true">https://perthhackers.github.io/blog/2017/09/23/First-Perth-Hackers-Meeting.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[Blog]]></category><category><![CDATA[Open_Source]]></category><pubDate>Sat, 23 Sep 2017 00:00:00 GMT</pubDate></item></channel></rss>
