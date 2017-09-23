@@ -1,3 +1,5 @@
+https://perthhackers.github.io/blog[Blog Link]
+https://perthhackers.github.io/blog/hubpress[Admin Link]
 = HubPress
 :toc: macro
 :toclevels: 4
