@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://perthhackers.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sat, 23 Sep 2017 08:14:54 GMT</lastBuildDate><atom:link href="https://perthhackers.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[First Perth Hackers Meeting]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://perthhackers.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sat, 23 Sep 2017 09:43:00 GMT</lastBuildDate><atom:link href="https://perthhackers.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[First Perth Hackers Meeting]]></title><description><![CDATA[<div class="paragraph">
 <p>We&#8217;re having our first meeting!</p>
 </div>
 <div class="paragraph">
@@ -21,10 +21,10 @@ So far he has managed to write a failing unit test. Yay!</p>
 <div class="ulist">
 <ul>
 <li>
-<p>Stephen Price</p>
+<p><a href="https://github.com/lythix">Stephen Price</a></p>
 </li>
 <li>
-<p>Mohammad Zaatar</p>
+<p><a href="https://github.com/mzaatar">Mohammad Zaatar</a></p>
 </li>
 <li>
 <p>Toby Potter</p>
@@ -33,10 +33,10 @@ So far he has managed to write a failing unit test. Yay!</p>
 <p>Kieran Mesquita</p>
 </li>
 <li>
-<p>Nathan Szlichta</p>
+<p><a href="https://github.com/sznathan">Nathan Szlichta</a></p>
 </li>
 <li>
-<p>David Hart (me)</p>
+<p><a href="https://github.com/clickr">David Hart (me)</a></p>
 </li>
 </ul>
 </div>
