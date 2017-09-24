@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://perthhackers.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sat, 23 Sep 2017 09:43:00 GMT</lastBuildDate><atom:link href="https://perthhackers.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[First Perth Hackers Meeting]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://perthhackers.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sun, 24 Sep 2017 02:49:48 GMT</lastBuildDate><atom:link href="https://perthhackers.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[First Perth Hackers Meeting]]></title><description><![CDATA[<div class="paragraph">
 <p>We&#8217;re having our first meeting!</p>
 </div>
 <div class="paragraph">
@@ -28,9 +28,6 @@ So far he has managed to write a failing unit test. Yay!</p>
 </li>
 <li>
 <p>Toby Potter</p>
-</li>
-<li>
-<p>Kieran Mesquita</p>
 </li>
 <li>
 <p><a href="https://github.com/sznathan">Nathan Szlichta</a></p>
