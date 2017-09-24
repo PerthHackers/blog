@@ -23,7 +23,6 @@ Anyway thankyou for attending:
 * https://github.com/lythix[Stephen Price]
 * https://github.com/mzaatar[Mohammad Zaatar]
 * Toby Potter
-* Kieran Mesquita
 * https://github.com/sznathan[Nathan Szlichta]
 * https://github.com/clickr[David Hart (me)]
 
